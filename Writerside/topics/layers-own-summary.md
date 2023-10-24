@@ -3,7 +3,7 @@
 ### Schicht 1
 ### Bitübertragungsschicht | Physical Layer
 
-## Lan Nezwerk
+## Lan Netzwerk
 - **Local Area Network** Ist auf eine Locale Area begrenzt (z.B. Haushalt, Campus)
 ## Wan Netzwerk
 - **Wide Area Network** Zusammenschluss von Lan Netzwerken, wird meistens vom Internetanbieter bereitgestellt 
