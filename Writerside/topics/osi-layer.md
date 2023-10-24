@@ -93,3 +93,15 @@ Die Data Link Layer ist für die zuverlässige Übertragung von Daten zwischen d
 
 
 Die Data Link Layer bildet somit die Grundlage für die zuverlässige Übertragung von Daten in einem Netzwerk.
+
+
+### Schicht 3
+## Network Layer
+
+
+## IP Adresse
+
+Größe 32 Bits
+Schreibweise ist Dezimal in 4 Oktetten
+Aufteilung in 5 Klassen
+Subnet Mask teilt IP Adresse in Netzwerkanteil und dHostanteil auf.
