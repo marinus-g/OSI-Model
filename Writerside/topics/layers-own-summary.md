@@ -1,7 +1,7 @@
 # Die Schichten des Osi Models (Selbst zusammengefasst)
 
 ### Schicht 1
-### Bitübertragungsschicht | Physical Layer
+#### Bitübertragungsschicht | Physical Layer
 
 ## Lan Netzwerk
 - **Local Area Network** Ist auf eine Locale Area begrenzt (z.B. Haushalt, Campus)
