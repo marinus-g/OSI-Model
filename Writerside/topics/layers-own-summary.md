@@ -69,5 +69,12 @@
 
 ***Adressierungen***
   - **Unicast** Eindeutige Adresse für ein einzelnes Gerät in einem LAN
-  - **Broadcast-Adresse** Eine Spezielle Adresse die an alle Geräte in einem Netzwerk gebroadcasted wird.
-    - Sie dient zur
+  - **Broadcast-Adresse** Die Broadcast-Adresse ist eine spezielle Netzwerkadresse, die dazu verwendet wird, Datenpakete an alle Geräte in einem Netzwerk zu senden.
+    - In IPv4-Netzwerken wird die Broadcast-Adresse für das lokale Netzwerk durch das Setzen aller Host-Bits in der IP-Adresse auf 1 erstellt. 
+  - **Multicast-Adresse** Wird verwendet, um an einzelne Gruppen Datenpakete zu schicken. Geräte müssen sich explizit für diese Gruppe anmelden.
+
+**Fehlererkennung**
+- **Checksummenprüfung**: Berechnung einer Prüfsumme für Datenpakete, die beim Empfänger überprüft wird.
+- **CRC-Prüfung (Cyclic Redundancy Check)**: Verwendung eines speziellen Algorithmus zur Erkennung von Fehlern in Datenpaketen.
+- **Paritätsprüfung**: Hinzufügen eines Paritätsbits zum Datenbyte, um Fehler zu erkennen.
+- **Framing-Prüfung**: Überprüfung von Start- und Stopfbits sowie anderen Steuerzeichen in Datenrahmen zur Gewährleistung der Integrität.
