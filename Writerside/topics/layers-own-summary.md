@@ -14,9 +14,9 @@
 - **Bustopologie** Das gesamte LAN hängt an einem Kabel.
   - Wenn dieses Kabel einen Fehler aufweist, können Geräte nach diesem Fehler nicht mehr angesprochen werden.
     - Es ist also sehr Fehleranfällig
-  - Kabel müssen am Ende terminated werden.
+  - Kabel müssen am Anfang und Ende terminiert werden.
 
-- **Sterntopologie** Das gesamte LAN hängt an einer zentralen Komponente (Hub).
+- **Sterntopologie** Das gesamte LAN hängt an einer zentralen Komponente (Switch oder Hub).
   - Wenn ein Kabel ausfällt fällt nur das Gerät mit dem das Kabel verbunden ist aus.
   - Wenn der Hub ausfällt fallen jedoch alle Geräte aus.
 
