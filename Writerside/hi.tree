@@ -3,8 +3,9 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi" name="Help Instance"
-                 start-page="">
+                 start-page="layers-own-summary.md">
 
+    <toc-element topic="layers-own-summary.md"/>
     <toc-element topic="osi-layer.md"/>
     <toc-element topic="osi-chatgtp.md"/>
 </instance-profile>
