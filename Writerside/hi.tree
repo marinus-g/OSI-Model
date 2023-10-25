@@ -5,6 +5,8 @@
 <instance-profile id="hi" name="Help Instance"
                  start-page="layers-own-summary.md">
 
+    <toc-element topic="ip-adressen.md"/>
+    <toc-element topic="subnetzmaske-aufgabe.md"/>
     <toc-element topic="layers-own-summary.md"/>
     <toc-element topic="osi-layer.md"/>
     <toc-element topic="osi-chatgtp.md"/>
