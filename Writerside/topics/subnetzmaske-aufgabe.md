@@ -1,5 +1,6 @@
 # Subnetzkonfiguration Aufgabe
 
+****Die Subnetzmaske teilt die IP-Adresse in Netzwerk und Hosts auf****
 
 Gegebenes Subnetz: 172.16.102.0/24
 
