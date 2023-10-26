@@ -105,3 +105,8 @@ Größe 32 Bits
 Schreibweise ist Dezimal in 4 Oktetten
 Aufteilung in 5 Klassen
 Subnet Mask teilt IP Adresse in Netzwerkanteil und Hostanteil auf.
+
+## Protokolle
+  **IP** -> Internet Protocol
+  **ICMP** -> Ping/tracert (traceroute)
+  
